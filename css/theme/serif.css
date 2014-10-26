@@ -46,6 +46,42 @@ body {
 .reveal h1 {
   text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }
 
+#Managementkonsult{
+  font-family: Helvetica, Arial, sans-serif;
+}
+#Halloween{
+  font-family: 'Frijole', cursive;
+}
+
+#Dagis{
+font-family: 'Coming Soon', cursive;
+}
+#titel{
+  font-family:'Pacifico', Georgia, serif;
+}
+#underrubrik
+{
+  font-family:'Arimo', Verdana, Helvetica, sans-serif;
+}
+#p{
+  font-family:Helvetica;
+}
+#serif 
+{font-family:Times, serif;
+}
+#robotoslab{
+  font-family: 'Roboto Slab', serif;
+}
+#roboto{
+  font-family: 'Roboto', sans-serif;
+}
+
+#futura{
+  font-family:'Baskerville', serif;
+}
+.reveal ul{
+  list-style:none;
+}
 /*********************************************
  * LINKS
  *********************************************/
@@ -73,7 +109,7 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid black;
+  border: none;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
   -webkit-transition: all .2s linear;
   -moz-transition: all .2s linear;
